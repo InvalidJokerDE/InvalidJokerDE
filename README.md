@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Joker0P4672/Joker0P4672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on NM-Helfer, Joker Bot Maker
 - 🌱 I’m currently learning Elixir, Lua
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Discord JokerDev#0001 ( if not join NatrowMining )
 - 😄 Pronoun: He/
 -  NarrowMing: https://discord.gg/z8cvGRN9DN
--->
