@@ -1,12 +1,7 @@
-### Hi there 👋
+### Hi there 👋, it's me Joker
 
-<!---- 🔭 I’m currently working on NM-Helfer, Joker Bot Maker
+- 🔭 I’m currently working on my own Development
 - 🌱 I’m currently learning Elixir
-- 👯 I’m looking to collaborate on 
-🤔 I’m looking for help with 
-- 💬 Ask me about My Coding Lamguages
-- 📫 How to reach me: Discord join NatrowMining
-- 😄 Pronoun: He
--  NarrowMing: https://discord.gg/z8cvGRN9DN
-- --- >
--
+- 👯 I’m currently collaborate on ZandoriaMC
+- 📫 My Server: https://discord.gg/QB7JRrRVAw
+- 😄 Pronouns: He/Him
