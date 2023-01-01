@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Robopolis](https://discord.gg/x8b26bTCd4)
 
-- 👨‍💻 All of my projects are available at [my Discord](my Discord)
+- 👨‍💻 All of my projects are available at [my Discord](https://discord.gg/x8b26bTCd4)
 
 - 💬 Ask me about **my Projects**
 
