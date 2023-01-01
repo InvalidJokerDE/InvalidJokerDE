@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm InvalidJoker</h1>
-<h3 align="center">A Bot & Game Developer from Germany 🇩🇪</h3>
+<h3 align="center">A Bot & Game Developer from Germany🇪</h3>
 
 - 🔭 I’m currently working on [Robopolis](https://discord.gg/x8b26bTCd4)
 
