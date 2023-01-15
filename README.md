@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm InvalidJoker</h1>
 <h3 align="center">A Discord Bot Developer from Germany</h3>
 
-- 🔭 I’m currently working on [Robopolis](https://discord.gg/x8b26bTCd4)
+- 🔭 × I’m currently working on [Robopolis](https://discord.gg/x8b26bTCd4)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 × I’m currently learning **PHP**
 
-- 👯 I’m looking to collaborate on [Sharky](https://discord.gg/devsharky)
+- 👯 × I’m looking to collaborate on [Sharky](https://discord.gg/devsharky)
 
-- 🤝 I’m looking for help with [Robopolis](https://discord.gg/x8b26bTCd4)
+- 🤝 × I’m looking for help with [Robopolis](https://discord.gg/x8b26bTCd4)
 
-- 👨‍💻 All of my projects are available at [my Discord](https://discord.gg/x8b26bTCd4)
+- 👨‍💻 × All of my projects are available at [my Discord](https://discord.gg/x8b26bTCd4)
 
-- 💬 Ask me about **my Projects**
+- 💬 × Ask me about **my Projects**
 
-- 📫 How to reach me **InvalidJoker ツ#5323**
+- 📫 × How to reach me **InvalidJoker ツ#5323**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
