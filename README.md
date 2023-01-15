@@ -1,3 +1,7 @@
+<p align="center">
+<a href="#"><img width="30%" height="auto" src="https://cdn.discordapp.com/attachments/985551183479463998/1001856009670758470/coding2.gif" height="175px"/></a>
+</p>
+
 <h1 align="center">Hi 👋, I'm InvalidJoker</h1>
 <h3 align="center">A Discord Bot Developer from Germany</h3>
 
