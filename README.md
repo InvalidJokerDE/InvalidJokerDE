@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm InvalidJoker</h1>
 <h3 align="center">A Discord Bot Developer from Germany</h3>
 
-- 🔭 × I’m currently working on [Robopolis](https://discord.gg/x8b26bTCd4)
+┌ 🔭 × I’m currently working on [Robopolis](https://discord.gg/x8b26bTCd4)
 
-- 🌱 × I’m currently learning **PHP**
+├ 🌱 × I’m currently learning **PHP**
 
-- 📷 × I’m currently starting making [Youtube Tutorials](https://www.youtube.com/@invalidjoker_dev)
+└ 📷 × I’m currently starting making [Youtube Tutorials](https://www.youtube.com/@invalidjoker_dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
