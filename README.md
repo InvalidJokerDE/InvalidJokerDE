@@ -5,14 +5,6 @@
 
 - 🌱 × I’m currently learning **PHP**
 
-- 👯 × I’m looking to collaborate on [Sharky](https://discord.gg/devsharky)
-
-- 🤝 × I’m looking for help with [Robopolis](https://discord.gg/x8b26bTCd4)
-
-- 👨‍💻 × All of my projects are available at [my Discord](https://discord.gg/x8b26bTCd4)
-
-- 💬 × Ask me about **my Projects**
-
 - 📫 × How to reach me **InvalidJoker ツ#5323**
 
 <h3 align="left">Connect with me:</h3>
