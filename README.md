@@ -5,7 +5,7 @@
 
 - 🌱 × I’m currently learning **PHP**
 
-- 📫 × How to reach me **InvalidJoker ツ#5323**
+- 📷 × I’m currently starting making [Youtube Tutorials](https://www.youtube.com/@invalidjoker_dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
