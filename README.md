@@ -3,7 +3,7 @@
 
 ┌ 🔭 × I’m currently working on [Robopolis](https://discord.gg/x8b26bTCd4)
 
-├ 🌱 × I’m currently learning **PHP**
+├ 🌱 × I’m currently learning **/**
 
 └ 📷 × I’m currently starting making [Youtube Tutorials](https://www.youtube.com/@invalidjoker_dev)
 
