@@ -3,9 +3,9 @@
 
 ### 👋 About Me
 
-┌ 🔭 × I’m currently working on [JokerLabs](https://discord.gg/DP4CsvyDAR)
+┌ 🔭 × I’m currently working on [JokerLabs](https://discord.gg/)
 
-├ 🌱 × I’m currently learning **/**
+├ 🌱 × I’m currently learning **Rust**
 
 └ 📷 × I’m currently starting making [Youtube Tutorials](https://www.youtube.com/@invalidjoker_dev)
 
