@@ -3,7 +3,7 @@
 
 ### 👋 About Me
 
-┌ 🔭 × I’m currently working on [JokerLabs](https://discord.gg/)
+┌ 🔭 × I’m currently working on [Pixel Playland](https://discord.gg/FKWNMS3KrP)
 
 ├ 🌱 × I’m currently learning **Rust**
 
