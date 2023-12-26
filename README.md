@@ -3,7 +3,9 @@
 ### 👋 About Me
 
 ┌ 🔭 × I’m currently working on [Pixel Playland](https://discord.gg/FKWNMS3KrP)
+
 ├ 🌱 × I’m currently learning **Rust**
+
 └ 💻 × My favourite languages are **C#**, **Go** and **Python**
 
 ## 📊 GitHub stats
