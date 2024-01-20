@@ -6,7 +6,7 @@
 
 ├ 🌱 × I’m currently learning **Rust**
 
-└ 💻 × My favourite languages are **C#**, **Go** and **Python**
+└ 💻 × My favourite languages are **Kotlin**, **Go**, **Typescript** and **Python**
 
 ## 📊 GitHub stats
 
